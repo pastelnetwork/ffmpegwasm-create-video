@@ -1,5 +1,5 @@
 {
-  "name": "react-app",
+  "name": "ffmpegwasm-create-video",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "build": "cross-env NODE_ENV=production react-scripts build"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "ffmpegwasm-create-video"
   },
   "browserslist": {
     "production": [
