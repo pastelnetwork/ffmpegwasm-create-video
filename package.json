@@ -14,9 +14,6 @@
     "start": "cross-env NODE_ENV=development PORT=3009 react-scripts start",
     "build": "cross-env NODE_ENV=production react-scripts build"
   },
-  "eslintConfig": {
-    "extends": "ffmpegwasm-create-video"
-  },
   "browserslist": {
     "production": [
       ">0.2%",
